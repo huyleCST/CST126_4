@@ -1,3 +1,0 @@
-Antipattern, solutions to common problems where the solution is ineffective and may result in undesired consequences, 1995
-1234,1324134, 1988
-test,test22.2001
