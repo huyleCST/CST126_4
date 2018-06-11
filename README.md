@@ -1,10 +1,11 @@
 # CST126_4 - Pulling it all together
 
-**Class ID:** 
+**Class ID:Guon
 
 **Assignement ID:** CST126_4
 
-**Unresolved Issues:**
+**Unresolved Issues:
+None
 
 **Notes:**
 
